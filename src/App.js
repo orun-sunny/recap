@@ -13,6 +13,7 @@ function App() {
     <div className="App">
       <Header></Header>
       <Countries></Countries>
+      <Person></Person>
 
  
   
